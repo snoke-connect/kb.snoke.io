@@ -1,0 +1,82 @@
+baseURL = "/"
+languageCode = "en-US"
+defaultContentLanguage = "en"
+
+title = "SNOKE CONNECT | Documentations"
+theme = "hugo-theme-learn"
+#themesdir = "../.."
+metaDataFormat = "yaml"
+defaultContentLanguageInSubdir= true
+
+
+[params]
+  Company = "SNOKE CONNECT"
+  editURL = "https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/"
+  description = "Documentations"
+  author = "Snoke Connect"
+  showVisitedLinks = true
+  disableBreadcrumb = false
+  disableNextPrev = false
+  disableSearch = false
+  disableInlineCopyToClipBoard = true
+  disableShortcutsTitle = false
+  disableLanguageSwitchingButton = false
+
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[Languages]
+[Languages.en]
+title = "SNOKE CONNECT | Documentations "
+weight = 2
+languageName = "English"
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fas fa-home fa-home'></i> SNOKE CONNECT"
+identifier = "ds"
+url = "https://www.snoke-connect.com"
+weight = 10
+
+#[[Languages.en.menu.shortcuts]]
+#name = "<i class='fas fa-fw fa-camera'></i> Showcases"
+#url = "showcase"
+#weight = 11
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-bookmark'></i> Link2"
+identifier = "hugodoc"
+url = "https://gohugo.io/"
+weight = 20
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fas fa-info-circle fa-info-circle'></i> About"
+url = "https://www.snoke-connect.com/about/"
+weight = 30
+
+[Languages.fr]
+title = "Documentation du thème Hugo Learn"
+weight = 3
+languageName = "Deutsch"
+
+[[Languages.fr.menu.shortcuts]]
+name = "<i class='fas fa-home fa-home'></i> SNOKE CONNECT"
+identifier = "ds"
+url = "https://www.snoke-connect.de"
+weight = 10
+
+#[[Languages.fr.menu.shortcuts]]
+#name = "<i class='fas fa-fw fa-camera'></i> Schaufenster"
+#url = "/showcase"
+#weight = 11
+
+[[Languages.fr.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-bookmark'></i> Link 2"
+identifier = "hugodoc"
+url = "https://gohugo.io/"
+weight = 20
+
+[[Languages.fr.menu.shortcuts]]
+name = "<i class='fas fa-info-circle fa-info-circle'></i> Über Uns"
+url = "https://www.snoke-connect.de/ueber/"
+weight = 30
