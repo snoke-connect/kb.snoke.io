@@ -1,2 +1,2 @@
 # kb.snoke.io
-Knowledge Base
+SNOKE CONNECT - Knowledge Base
