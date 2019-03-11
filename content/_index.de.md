@@ -13,7 +13,7 @@ Ce thème est un portage partiel du [thème Learn](http://learn.getgrav.org/) de
 
 ## Fonctionnalités principales
 
-* [Recherche automatique]()
+* [Recherche automatique]({{%relref "basics/configuration/_index.md#activate-search" %}})
 * [Mode multi-langue]()
 * **Nombre de niveau infini dans le menu**
 * **Boutons suivant/précédent automatiquement générés pour naviguer entre les items du menu**

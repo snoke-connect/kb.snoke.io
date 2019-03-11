@@ -2,14 +2,14 @@
 title: "SNOKE CONNECT | Knowledge Base"
 ---
 
-# Welcome
+# Welcome to the Knowledge Base
 
-[SNOKE CONNECT](http://www.snoke-connect.com) - Knowledge Base provides informations for Services, Consulting and more [Hugo](https://gohugo.io/), a fast and modern static website engine written in Go. Where Hugo is often used for blogs, this multilingual-ready theme is **fully designed for documentation**.
+[SNOKE CONNECT](http://www.snoke-connect.com) - Knowledge Base provides informations for Services, Consulting and more. **join**.
 
 This theme is a partial porting of the [Learn theme](http://learn.getgrav.org/) of [Grav](https://getgrav.org/), a modern flat-file CMS written in PHP.
 
-{{% notice tip %}}If you have any questions, dont hasitate to contact us via [website]({{%relref "cont/pages/_index.md"%}})
-{{% /notice %}}
+{{% notice info %}}
+This Page is licensed under Creative Commons Attribution Share Alike 4.0 International {{% /notice %}}
 
 ## Main features
 
