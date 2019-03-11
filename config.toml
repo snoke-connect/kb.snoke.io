@@ -29,7 +29,7 @@ home = [ "HTML", "RSS", "JSON"]
 [Languages]
 [Languages.en]
 title = "SNOKE CONNECT | Documentations "
-weight = 2
+weight = 1
 languageName = "English"
 
 [[Languages.en.menu.shortcuts]]
@@ -54,29 +54,29 @@ name = "<i class='fas fa-info-circle fa-info-circle'></i> About"
 url = "https://www.snoke-connect.com/about/"
 weight = 30
 
-[Languages.fr]
-title = "Documentation du thème Hugo Learn"
-weight = 3
+[Languages.de]
+title = "Snoke IO"
+weight = 2
 languageName = "Deutsch"
 
-[[Languages.fr.menu.shortcuts]]
+[[Languages.de.menu.shortcuts]]
 name = "<i class='fas fa-home fa-home'></i> SNOKE CONNECT"
 identifier = "ds"
 url = "https://www.snoke-connect.de"
 weight = 10
 
-#[[Languages.fr.menu.shortcuts]]
+#[[Languages.de.menu.shortcuts]]
 #name = "<i class='fas fa-fw fa-camera'></i> Schaufenster"
 #url = "/showcase"
 #weight = 11
 
-[[Languages.fr.menu.shortcuts]]
+[[Languages.de.menu.shortcuts]]
 name = "<i class='fas fa-fw fa-bookmark'></i> Link 2"
 identifier = "hugodoc"
 url = "https://gohugo.io/"
 weight = 20
 
-[[Languages.fr.menu.shortcuts]]
+[[Languages.de.menu.shortcuts]]
 name = "<i class='fas fa-info-circle fa-info-circle'></i> Über Uns"
 url = "https://www.snoke-connect.de/ueber/"
 weight = 30
