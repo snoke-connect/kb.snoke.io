@@ -1,43 +1,37 @@
 ---
-title: "Learn Theme for Hugo"
+title: "Knowledge Base"
 ---
 
-# Deutsch
+# Willkommen
 
-[Hugo-theme-learn](http://github.com/matcornic/hugo-theme-learn) est un thème pour [Hugo](https://gohugo.io/), un générateur de site statique, rapide et modern, écrit en Go. Tandis que Hugo est souvent utilisé pour des blogs, ce thème multi-langue est **entièrement conçu pour la documentation**.
-
-Ce thème est un portage partiel du [thème Learn](http://learn.getgrav.org/) de [Grav](https://getgrav.org/), un CMS modern écrit en PHP.
-
-{{% notice tip %}}Le thème Learn fonctionne grâce à la structure de page aborescentes pour organiser le contenu: tous les contenus sont des pages qui appartiennent à d'autres pages. [Plus d'infos]()
-{{% /notice %}}
-
-## Fonctionnalités principales
-
-* [Recherche automatique]({{%relref "basics/configuration/_index.md#activate-search" %}})
-* [Mode multi-langue]()
-* **Nombre de niveau infini dans le menu**
-* **Boutons suivant/précédent automatiquement générés pour naviguer entre les items du menu**
-* [Taille d'image, ombres...]()
-* [Fichiers joints]()
-* [Lister les pages filles]()
-* [Diagrammes Mermaid]() (flowchart, sequence, gantt)
-* [Style configurable and variantes de couleurs]()
-* [Boutons](), [Messages Astuce/Note/Info/Attention](), [Expand]()
-
-![Screenshot](https://github.com/matcornic/hugo-theme-learn/raw/master/images/screenshot.png?width=40pc&classes=shadow)
-
-## Contribuer à cette documentation
-
-N'hésitez pas à mettre à jour ce contenu en cliquant sur le lien **Modifier cette page** en haut de chaque page, et créer la Pull Request associée.
+___
 
 {{% notice info %}}
-Votre modification sera déployée automatiquement quand elle sera mergée.
+BETA-Version.
 {{% /notice %}}
 
-## Site de documentation
+**[SNOKE CONNECT](http://www.Snoke-Connect.de)** stellt eine Wissensdatenbank zur Verfügung. Hierfür verwenden wir [Hugo Framework](https://gohugo.io/) und veröffentlichen alles unter der CC-BY-4.0 Lizenz auf [GitHub](https://github.io/).
+Diese Knowledge Base ist **kostenlos**.
 
-Cette documentation statique a été générée avec Hugo avec une simple commande : `hugo -t hugo-theme-learn` -- le code source est [disponible sur Github](https://github.com/matcornic/hugo-theme-learn)
+Haben Sie Fragen zu [Dienstleistungen](https://www.snoke-connect.de/leistungen/) und [Angebote](https://www.snoke-connect.de/angebote/) von **[SNOKE CONNECT](http://www.Snoke-Connect.de)**
 
-{{% notice note %}}
-Le site est auomatiquement publié et hébergé par [Netlify](https://www.netlify.com/). Plus d'infos sur le [déploiement de site Hugo avec Netlify](https://www.netlify.com/blog/2015/07/30/hosting-hugo-on-netlifyinsanely-fast-deploys/)(En anglais)
+{{% notice note %}}Beiträge, Artikel und Themen befinden sich im Aufbau.
+{{% /notice %}}
+
+## Themen
+
+{{% children depth="3" description="true"   %}}
+
+* [VMWare richtig installieren/verwenden]({{%relref "/snoke" %}})
+* [Thema 2]({{%relref "/snoke" %}})
+* [Thema 3]({{%relref "/snoke" %}})
+* [Thema 4]({{%relref "/snoke" %}})
+
+**Mehr**
+
+* [SNOKE CONNECT Homepage]({{%relref "/snoke" %}})
+* [Über Uns]({{%relref "/snoke" %}})
+
+{{% notice tip %}}
+Diese Seite ist auf Deutsch und Englisch Verfügbar.
 {{% /notice %}}

@@ -2,6 +2,7 @@
 title: Prérequis
 weight: 10
 disableToc: true
+url: /lol/riesenlol/
 ---
 
 Grâce à la simplicité d'Hugo, cette page est vide car il n'y a quasi pas de prérequis pour utiliser le thème.

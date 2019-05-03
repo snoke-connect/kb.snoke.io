@@ -1,5 +1,5 @@
 ---
-title: Contenu
+title: Thema 3
 weight: 10
 chapter: true
 pre: "<b>2. </b>"

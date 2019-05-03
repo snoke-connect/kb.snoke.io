@@ -205,6 +205,7 @@ figcaption h4 {
 .select-style {
     border: 0;
     width: 150px;
+    color: #01aabe;
     border-radius: 0px;
     overflow: hidden;
     display: inline-flex;
@@ -219,7 +220,8 @@ figcaption h4 {
 }
 
 .select-style svg:hover {
-  fill: #e6e6e6;
+fill: #e6e6e6;
+
 }
 
 .select-style select {
@@ -237,11 +239,14 @@ figcaption h4 {
 
 .select-style select:focus {
     outline: none;
+
 }
 
 .select-style :hover {
     cursor:  pointer;
 }
+
+.select-style option:checked {background-color: #000; color:#fff}
 
 @media only all and (max-width: 47.938em) {
   #breadcrumbs .links, #top-github-link-text {
@@ -250,5 +255,5 @@ figcaption h4 {
 }
 
 .is-sticky #top-bar {
-  box-shadow: -1px 2px 5px 1px rgba(0, 0, 0, 0.1); 
+  box-shadow: -1px 2px 5px 1px rgba(0, 0, 0, 0.1);
 }

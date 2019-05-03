@@ -1,8 +1,9 @@
 ---
-title: Démarrage
+title: Thema 2
 weight: 5
 pre: "<b>1. </b>"
 chapter: true
+#published: false
 ---
 
 ### Chapitre 1
