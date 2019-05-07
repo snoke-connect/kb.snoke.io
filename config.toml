@@ -12,7 +12,7 @@ defaultContentLanguageInSubdir= true
 [params]
   Company = "SNOKE CONNECT"
   #editURL = "https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/"
-  description = "Documentations"
+  description = "DevOps, Pentesting Techniques & Tutorials"
   author = "Snoke Connect"
   showVisitedLinks = true
   disableBreadcrumb = false
@@ -43,11 +43,11 @@ weight = 10
 #url = "showcase"
 #weight = 11
 
-[[Languages.en.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-bookmark'></i> Link2"
-identifier = "hugodoc"
-url = "https://gohugo.io/"
-weight = 20
+#[[Languages.en.menu.shortcuts]]
+#name = "<i class='fas fa-fw fa-bookmark'></i> Link2"
+#identifier = "hugodoc"
+#url = "https://gohugo.io/"
+#weight = 20
 
 [[Languages.en.menu.shortcuts]]
 name = "<i class='fas fa-info-circle fa-info-circle'></i> About"

@@ -1,43 +1,8 @@
 ---
-title: "Learn Theme for Hugo"
+title: "SNOKE CONNECT | Knowledge Base"
 ---
 
-# Deutsch
+# Welcome to the Knowledge Base
 
-[Hugo-theme-learn](http://github.com/matcornic/hugo-theme-learn) est un thème pour [Hugo](https://gohugo.io/), un générateur de site statique, rapide et modern, écrit en Go. Tandis que Hugo est souvent utilisé pour des blogs, ce thème multi-langue est **entièrement conçu pour la documentation**.
+[SNOKE CONNECT](http://www.snoke-connect.com) - Knowledge Base provides informations for Services, Consulting and more. **join**.
 
-Ce thème est un portage partiel du [thème Learn](http://learn.getgrav.org/) de [Grav](https://getgrav.org/), un CMS modern écrit en PHP.
-
-{{% notice tip %}}Le thème Learn fonctionne grâce à la structure de page aborescentes pour organiser le contenu: tous les contenus sont des pages qui appartiennent à d'autres pages. [Plus d'infos]()
-{{% /notice %}}
-
-## Fonctionnalités principales
-
-* [Recherche automatique]({{%relref "basics/configuration/_index.md#activate-search" %}})
-* [Mode multi-langue]()
-* **Nombre de niveau infini dans le menu**
-* **Boutons suivant/précédent automatiquement générés pour naviguer entre les items du menu**
-* [Taille d'image, ombres...]()
-* [Fichiers joints]()
-* [Lister les pages filles]()
-* [Diagrammes Mermaid]() (flowchart, sequence, gantt)
-* [Style configurable and variantes de couleurs]()
-* [Boutons](), [Messages Astuce/Note/Info/Attention](), [Expand]()
-
-![Screenshot](https://github.com/matcornic/hugo-theme-learn/raw/master/images/screenshot.png?width=40pc&classes=shadow)
-
-## Contribuer à cette documentation
-
-N'hésitez pas à mettre à jour ce contenu en cliquant sur le lien **Modifier cette page** en haut de chaque page, et créer la Pull Request associée.
-
-{{% notice info %}}
-Votre modification sera déployée automatiquement quand elle sera mergée.
-{{% /notice %}}
-
-## Site de documentation
-
-Cette documentation statique a été générée avec Hugo avec une simple commande : `hugo -t hugo-theme-learn` -- le code source est [disponible sur Github](https://github.com/matcornic/hugo-theme-learn)
-
-{{% notice note %}}
-Le site est auomatiquement publié et hébergé par [Netlify](https://www.netlify.com/). Plus d'infos sur le [déploiement de site Hugo avec Netlify](https://www.netlify.com/blog/2015/07/30/hosting-hugo-on-netlifyinsanely-fast-deploys/)(En anglais)
-{{% /notice %}}
